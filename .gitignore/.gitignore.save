@@ -1,9 +1,0 @@
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore Python cache files
-__pycache__/
-*.py[cod]
-
-# Ignore data files (you can adjust based on where your data is stored)
-data/*.csv
