@@ -12,7 +12,6 @@ This project explores global happiness scores using data from the World Happines
 ## 📁 Project Structure
 - `data/`: CSV files from different years
 - `notebooks/`: Jupyter notebook for full analysis
-- `images/`: (optional) Saved plots
 - `requirements.txt`: Project dependencies
 
 ## 🔧 Technologies
